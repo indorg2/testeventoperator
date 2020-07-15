@@ -1,0 +1,3 @@
+id: "20200715150729.46259400"
+project-name: testeventoperator
+stack: docker.io/kabanero/nodejs:0.3
